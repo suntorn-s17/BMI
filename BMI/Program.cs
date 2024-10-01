@@ -6,6 +6,7 @@
         {
             Display();
             CheckBmi(calBmi());
+            Console.ReadKey(true);
         }
 
         static void Display()
